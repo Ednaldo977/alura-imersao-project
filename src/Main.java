@@ -29,7 +29,7 @@ public class Main {
             System.out.println(filme.get("title"));
             System.out.println(filme.get("image"));
             System.out.println(filme.get("imDbRating"));
-
+            System.out.println("");
         }
 
 
